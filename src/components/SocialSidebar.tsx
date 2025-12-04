@@ -1,9 +1,6 @@
 
 // ============================================
 // FILE: src/components/SocialSidebar.tsx
-
-import { JSX } from "react";
-
 // ============================================
 interface SocialLink {
   href: string;
