@@ -102,7 +102,7 @@ export const skills = {
   ],
   services: [
     { icon: '🖥️', title: 'PC Hardware & Assembly', description: 'Custom builds & optimization' },
-    { icon: '📷', title: 'Camera Setup Services', description: '
+    { icon: '📷', title: 'IT Infrastructure & Network Systems', description: '
 • Firewall & Security Setup, • Server & Home Lab Deployment, • CCTV & Surveillance Networking•, Cable Infrastructure & Physical Layer,• Network Monitoring & Troubleshooting• Enterprise Networking Fundamentals' },
     // { icon: '🏢', title: 'Office Installation', description: 'Complete workspace solutions' },
   ],
