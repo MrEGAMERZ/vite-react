@@ -1,94 +1,50 @@
-// ============================================
-// FILE: src/data/portfolioData.ts
-// ============================================
+// src/data/portfolioData.ts
 export const projects = [
   {
     id: 1,
     title: '⚔️ Shooting Strike',
     subtitle: 'FPS PC Game',
-    description: 'A 5-level first-person shooter built with Unity featuring multiple weapons, powerups, and a comprehensive scoring system. Developed collaboratively with advanced enemy AI and immersive gameplay mechanics.',
+    description: 'A 5-level first-person shooter built with Unity featuring multiple weapons, powerups, and a comprehensive scoring system.',
     technologies: ['Unity', 'C#', '3D Design', 'Game Physics'],
-    // link: '', // Add your project link here
-    // github: '', // Add GitHub link if available
+    link: '',
+    github: '',
   },
   {
     id: 2,
     title: '🤖 Facial Attendance System',
     subtitle: 'AI-Powered Recognition',
-    description: 'Python-based attendance tracking system with facial recognition ML models, intuitive GUI, and automated CSV logging. Successfully demonstrated at school science exhibition.',
+    description: 'Python-based attendance tracking system with facial recognition ML models.',
     technologies: ['Python', 'OpenCV', 'AI/ML', 'Tkinter'],
-    // link: '',
-    // github: '',
+    link: '',
+    github: '',
   },
   {
     id: 3,
     title: '📱 Student Cloud',
     subtitle: 'iOS Education App',
-    description: 'Comprehensive iOS application designed for student ecosystem with Firebase authentication, real-time data sync, and professional UI/UX. Features login system and cloud-based resource management.',
+    description: 'Comprehensive iOS application designed for student ecosystem with Firebase authentication.',
     technologies: ['Swift', 'Firebase', 'iOS SDK', 'UIKit'],
-    // link: '',
-    // github: '',
+    link: '',
+    github: '',
   },
   {
     id: 4,
     title: '⏰ TimeBuddy',
     subtitle: 'Time Management App',
-    description: 'iOS time management application specifically designed for students to organize study schedules, track assignments, and manage academic deadlines with smart notifications and productivity insights.',
+    description: 'iOS time management application for students.',
     technologies: ['Swift', 'CoreData', 'iOS', 'UserNotifications'],
-    // link: '',
-    // github: '',
+    link: '',
+    github: '',
   },
 ];
 
 export const certifications = [
-  {
-    id: 1,
-    title: 'Python Programming',
-    organization: 'Add Your Organization',
-    year: '2024',
-    icon: '🐍',
-    // link: '', // Add certification link
-  },
-  {
-    id: 2,
-    title: 'iOS Development',
-    organization: 'Add Your Organization',
-    year: '2024',
-    icon: '📱',
-    // link: '',
-  },
-  {
-    id: 3,
-    title: 'Machine Learning',
-    organization: 'Add Your Organization',
-    year: '2024',
-    icon: '🤖',
-    // link: '',
-  },
-  {
-    id: 4,
-    title: 'Unity Certified',
-    organization: 'Add Your Organization',
-    year: '2024',
-    icon: '🎮',
-    // link: '',
-  },
-  {
-    id: 5,
-    title: 'React.js',
-    organization: 'Add Your Organization',
-    year: '2024',
-    icon: '⚛️',
-    // link: '',
-  },
-  {
-    id: 6,
-    title: 'Firebase',
-    organization: 'Add Your Organization',
-    year: '2024',
-    icon: '🔥',
-    // link: '',
-  },
+  { id: 1, title: 'Python Programming', organization: 'Add Your Organization', year: '2024', icon: '🐍', link: '' },
+  { id: 2, title: 'iOS Development', organization: 'Add Your Organization', year: '2024', icon: '📱', link: '' },
+  { id: 3, title: 'Machine Learning', organization: 'Add Your Organization', year: '2024', icon: '🤖', link: '' },
+  { id: 4, title: 'Unity Certified', organization: 'Add Your Organization', year: '2024', icon: '🎮', link: '' },
+  { id: 5, title: 'React.js', organization: 'Add Your Organization', year: '2024', icon: '⚛️', link: '' },
+  { id: 6, title: 'Firebase', organization: 'Add Your Organization', year: '2024', icon: '🔥', link: '' },
 ];
 
 export const skills = {
