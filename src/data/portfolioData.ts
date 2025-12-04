@@ -8,8 +8,8 @@ export const projects = [
     subtitle: 'FPS PC Game',
     description: 'A 5-level first-person shooter built with Unity featuring multiple weapons, powerups, and a comprehensive scoring system. Developed collaboratively with advanced enemy AI and immersive gameplay mechanics.',
     technologies: ['Unity', 'C#', '3D Design', 'Game Physics'],
-    link: '', // Add your project link here
-    github: '', // Add GitHub link if available
+    // link: '', // Add your project link here
+    // github: '', // Add GitHub link if available
   },
   {
     id: 2,
@@ -17,8 +17,8 @@ export const projects = [
     subtitle: 'AI-Powered Recognition',
     description: 'Python-based attendance tracking system with facial recognition ML models, intuitive GUI, and automated CSV logging. Successfully demonstrated at school science exhibition.',
     technologies: ['Python', 'OpenCV', 'AI/ML', 'Tkinter'],
-    link: '',
-    github: '',
+    // link: '',
+    // github: '',
   },
   {
     id: 3,
@@ -26,8 +26,8 @@ export const projects = [
     subtitle: 'iOS Education App',
     description: 'Comprehensive iOS application designed for student ecosystem with Firebase authentication, real-time data sync, and professional UI/UX. Features login system and cloud-based resource management.',
     technologies: ['Swift', 'Firebase', 'iOS SDK', 'UIKit'],
-    link: '',
-    github: '',
+    // link: '',
+    // github: '',
   },
   {
     id: 4,
@@ -35,8 +35,8 @@ export const projects = [
     subtitle: 'Time Management App',
     description: 'iOS time management application specifically designed for students to organize study schedules, track assignments, and manage academic deadlines with smart notifications and productivity insights.',
     technologies: ['Swift', 'CoreData', 'iOS', 'UserNotifications'],
-    link: '',
-    github: '',
+    // link: '',
+    // github: '',
   },
 ];
 
@@ -47,7 +47,7 @@ export const certifications = [
     organization: 'Add Your Organization',
     year: '2024',
     icon: '🐍',
-    link: '', // Add certification link
+    // link: '', // Add certification link
   },
   {
     id: 2,
@@ -55,7 +55,7 @@ export const certifications = [
     organization: 'Add Your Organization',
     year: '2024',
     icon: '📱',
-    link: '',
+    // link: '',
   },
   {
     id: 3,
@@ -63,7 +63,7 @@ export const certifications = [
     organization: 'Add Your Organization',
     year: '2024',
     icon: '🤖',
-    link: '',
+    // link: '',
   },
   {
     id: 4,
@@ -71,7 +71,7 @@ export const certifications = [
     organization: 'Add Your Organization',
     year: '2024',
     icon: '🎮',
-    link: '',
+    // link: '',
   },
   {
     id: 5,
@@ -79,7 +79,7 @@ export const certifications = [
     organization: 'Add Your Organization',
     year: '2024',
     icon: '⚛️',
-    link: '',
+    // link: '',
   },
   {
     id: 6,
@@ -87,7 +87,7 @@ export const certifications = [
     organization: 'Add Your Organization',
     year: '2024',
     icon: '🔥',
-    link: '',
+    // link: '',
   },
 ];
 
