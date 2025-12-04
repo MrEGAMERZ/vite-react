@@ -47,7 +47,7 @@ export default function App() {
       }`}>
         <div className="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
           <h1 className="text-2xl font-bold text-slate-300">
-            MEGAMERZ
+            MOHAMMAD REHAN
           </h1>
           <ul className="hidden md:flex gap-8">
             {['home', 'about', 'skills', 'certifications', 'projects', 'contact'].map(item => (
@@ -87,7 +87,7 @@ export default function App() {
         
         <div className="relative z-10 text-center px-6 max-w-5xl">
           <h1 className="text-6xl md:text-8xl font-extrabold mb-6 animate-fade-in text-slate-200">
-            Hi, I'm <span className="text-slate-400">MEGAMERZ</span>
+            Hi, I'm <span className="text-slate-400">MOHAMMAD REHAN</span>
           </h1>
           <p className="text-xl md:text-2xl text-zinc-400 mb-4">
             Student @ Presidency University Bangalore | AI/ML Enthusiast
@@ -114,6 +114,7 @@ export default function App() {
             <p className="text-lg md:text-xl text-zinc-300 leading-relaxed mb-6">
               Currently pursuing Computer Science at Presidency University Bangalore, after completing my schooling in Kuwait. 
               I'm passionate about AI/ML, iOS development, and creating innovative tech solutions that make a real impact.
+              I've also been creating developing drones and robots which help in day to day life.
             </p>
             <p className="text-lg md:text-xl text-zinc-300 leading-relaxed mb-6">
               From building FPS games in Unity to developing facial recognition systems and iOS apps, I love exploring 
@@ -273,7 +274,7 @@ export default function App() {
             
             <div className="mt-12 pt-8 border-t border-zinc-800">
               <p className="text-zinc-400 mb-4">🏍️ Royal Enfield Enthusiast | 🎮 FPS Gamer | 📱 iOS Ecosystem Lover</p>
-              <p className="text-zinc-500 text-sm">© 2025 MEGAMERZ — All Rights Reserved</p>
+              <p className="text-zinc-500 text-sm">© 2025 MOHAMMAD REHAN — All Rights Reserved</p>
             </div>
           </div>
         </div>
