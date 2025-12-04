@@ -43,7 +43,7 @@ export const projects = [
 export const certifications = [
   {
     id: 1,
-    title: 'Python Programming',
+    title: 'Intermidiate Python Programming',
     organization: 'Coursera',
     year: '2024',
     icon: '🐍',
@@ -57,32 +57,25 @@ export const certifications = [
     icon: '📱',
     link: '',
   },
+
   {
     id: 3,
-    title: 'Machine Learning',
-    organization: 'Coursera',
-    year: '2024',
-    icon: '🤖',
-    link: '',
-  },
-  {
-    id: 4,
     title: 'Unity Certified',
     organization: 'Coursera',
-    year: '2024',
+    year: '2023',
     icon: '🎮',
     link: '',
   },
   {
-    id: 5,
+    id: 4,
     title: 'React.js',
     organization: 'Coursera',
-    year: '2024',
+    year: '2025',
     icon: '⚛️',
     link: '',
   },
   {
-    id: 6,
+    id: 5,
     title: 'Firebase',
     organization: 'Coursera',
     year: '2024',

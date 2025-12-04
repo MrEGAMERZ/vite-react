@@ -187,11 +187,11 @@ export default function App() {
             ))}
           </div>
 
-          <div className="mt-12 bg-zinc-900/30 backdrop-blur-xl rounded-2xl p-8 border border-zinc-800 text-center">
+          {/* <div className="mt-12 bg-zinc-900/30 backdrop-blur-xl rounded-2xl p-8 border border-zinc-800 text-center">
             <p className="text-zinc-400 text-lg">
               💡 Update your certifications in src/data/portfolioData.ts
             </p>
-          </div>
+          </div> */}
         </div>
       </section>
 
@@ -273,7 +273,8 @@ export default function App() {
             </div>
             
             <div className="mt-12 pt-8 border-t border-zinc-800">
-              <p className="text-zinc-400 mb-4">🏍️ Royal Enfield Enthusiast | 🎮 FPS Gamer | 📱 iOS Ecosystem Lover</p>
+              <p className="text-zinc-400 mb-4">🏍️ Bike Enthusiast | 🎮 Adventure/FPS Gamer | 📱 iOS Ecosystem Lover</p>
+              <p className="text-zinc-500 text-sm">Made with 💜 by REHAN</p>
               <p className="text-zinc-500 text-sm">© 2025 MOHAMMAD REHAN — All Rights Reserved</p>
             </div>
           </div>
