@@ -110,7 +110,7 @@ export const skills = {
 export const socialLinks = {
   github: 'https://github.com/MEGAMERZ',
   instagram: 'https://instagram.com/rehan_xxa',
-  //youtube: 'https://youtube.com/@yourchannel',
+  youtube: 'https://www.linkedin.com/in/mohammad-rehan-05a914211/',
   linkedin: 'https://www.linkedin.com/in/mohammad-rehan-05a914211/',
   email: 'mohammadrehan432432@gmail.com',
 };
