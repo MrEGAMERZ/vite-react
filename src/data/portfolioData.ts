@@ -38,6 +38,24 @@ export const projects = [
     link: '',
     github: '',
   },
+  {
+    id: 5,
+    title: '🛡️ CCPA Guardian',
+    subtitle: 'AI Privacy Compliance Assistant',
+    description: 'AI-powered assistant to analyze CCPA compliance using a RAG (Retrieval-Augmented Generation) pipeline. Processed the 65-page CCPA statute into a FAISS vector database for contextual retrieval of legal sections. Integrated Qwen-2.5-1.5B-Instruct to generate reasoned responses with section-level citations, reducing hallucinations and improving legal accuracy.',
+    technologies: ['Python', 'RAG', 'FAISS', 'Qwen-2.5', 'AI/ML', 'NLP'],
+    link: '',
+    github: '',
+  },
+  {
+    id: 6,
+    title: '🧠 SchemeSathi',
+    subtitle: 'AI Government Scheme Platform',
+    description: 'Full-stack AI system to simplify and structure government schemes for rural and low-income users. Features an AI-driven pipeline that scrapes official scheme pages, extracts eligibility rules and documents into structured JSON, and stores verified entries in Firebase. Includes multilingual translation, FAQ generation, a scoped chatbot, and a rule-based eligibility & recommendation engine.',
+    technologies: ['React', 'Node.js', 'Firebase', 'AI/ML', 'Vercel', 'Render', 'JSON'],
+    link: '',
+    github: '',
+  },
 ];
 
 export const certifications = [
@@ -92,12 +110,15 @@ export const skills = {
     'Facial recognition ML models in Python',
     'FPS game development in Unity',
     'Responsive web design & deployment',
+    'RAG pipelines & vector databases (FAISS)',
+    'AI-powered data structuring & NLP',
   ],
   services: [
     { icon: '🖥️', title: 'PC Hardware & Assembly', description: 'Custom builds & optimization' },
     { icon: '🌐', title: 'IT Infrastructure & Network Systems', description: '• Firewall & Security Setup \n • Server & Home Lab Deployment • CCTV & Surveillance Networking• Cable Infrastructure & Physical Layer • Network Monitoring & Troubleshooting • Enterprise Networking Fundamentals' },
     // { icon: '🏢', title: 'Office Installation', description: 'Complete workspace solutions' },
   ],
+};
 
 export const socialLinks = {
   github: 'https://github.com/MEGAMERZ',
